@@ -58,3 +58,105 @@
     - tcp : 4단계 연결 해제
     - udp : 없음</p>
 </details>
+
+
+<details>
+  <summary>TCP 3, 4 way handshake에 대해서 설명해보세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>HTTP와 HTTPS의 차이점에 대해서 설명해보세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>HTTPS에 대해서 설명하고 SSL Handshake에 대해서 설명해보세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>GET과 POST의 차이점에 대해서 설명해보세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>HTTP 메서드와 이것이 하는 역할에 대해서 설명해보세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>RESTful이란 무엇이며, 이것에 대해서 아는대로 설명해보세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>CORS란 무엇이며 이것에 대해서 설명해보세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>OSI7계층과 그 존재 이유, TCP/IP 4계층에 대해 설명해보세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>웹 서버 소프트웨어(Apache, Nginx)는 OSI 7계층 중 어디서 작동하는지 설명해보세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>Socket 으로 바로 통신하는 것 대비 HTTP 는 비효율적인데도 왜 많은 앱들은 HTTP 를 쓰는 걸까요?</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>차세대 프로토콜로 논의중인 HTTP/3 은 UDP 기반의 QUIC 이라는 기술로 구현되어 있습니다. UDP 는 TCP 대비 안정성이 떨어지는 프로토콜이라고 하는데, 그럼에도 왜 UDP 를 채택한 걸까요?</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>SSL (또는 TLS) 가 어떻게 동작하는지 말씀해주세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>HTTP 는 Stateless (상태가 없는) 통신 프로토콜이라고 합니다. 따라서, 상태가 없다면 가령 HTTP 를 쓰는 서비스는 매번 로그인을 해 줘야 하거나 사용자 정보를 저장하는 일이 불가능합니다. 그런데 실제론 그렇지 않죠. 어떻게 이런 불편함을 해소했을까요?</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+<details>
+  <summary>DNS의 동작 방식에 종류와 장단점을 설명해주세요</summary>
+  </br>
+  <p>
+  </p>
+</details>
+
+
+
