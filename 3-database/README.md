@@ -17,9 +17,91 @@
 </details>
 
 <details>
-  <summary>MySQL에서는 Repeatable Read 격리 수준에서 Phantom read 현상이 발생하지 않는 이유를 자세하게 설명해주세요</summary>
+  <summary>MySQL(InnoDB)에서는 Repeatable Read 격리 수준에서 Phantom read 현상이 발생하지 않는 이유를 자세하게 설명해주세요</summary>
   </br>
 
   <p></p>
+
+</details>
+
+<details>
+  <summary>MySQL의 InnoDB 스토리지 엔진 아키텍처에 대해서 말씀해주세요</summary>
+  </br>
+
+  <p>
+  
+  </p>
+</details>
+
+
+<details>
+  <summary>MVCC(Multi Version Concurency Control)에 대해서 설명해주세요</summary>
+  </br>
+
+  <p>
+  
+  </p>
+
+</details>
+
+<details>
+  <summary>NoSQL 과 RDB 의 특징, 차이에 대해 말씀해주세요. 어느 상황에 어떤 데이터베이스를 쓰는게 좋겠습니까?</summary>
+  </br>
+
+  <p>
+  
+  </p>
+
+</details>
+
+<details>
+  <summary>DB의 읽기 속도를 개선하기 위해서 할 수 있는 것들에 대해서 이야기해주세요.</summary>
+  </br>
+
+  <p>
+  
+  </p>
+
+</details>
+
+
+<details>
+  <summary>INNER JOIN과 OUTER JOIN의 차이점에 대해서 설명해주세요</summary>
+  </br>
+
+  <p>
+  
+  </p>
+
+</details>
+
+
+<details>
+  <summary>데이터베이스 샤딩 / 파티셔닝에 대해 설명해주세요.</summary>
+  </br>
+
+  <p>
+  
+  </p>
+
+</details>
+
+<details>
+  <summary>데이터베이스가 Index 를 이용해 자료를 빠르게 검색하는 과정을 아주 자세하게 설명해주세요</summary>
+  </br>
+
+  <p>
+  
+  </p>
+
+</details>
+
+<details>
+  <summary>Optimistic Locking(낙관적 락) 과 Pessimistic Locking(비관적 락) 에 대해 설명해주세요. 각각의 락을 사용할 상황 또는 제품 사례를 말씀해주세요.</summary>
+  </br>
+
+  <p>
+  
+  </p>
 
 </details>
