@@ -158,5 +158,16 @@
   </p>
 </details>
 
+<details>
+  <summary>Load Balancer에 대해 설명해주세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
 
-
+<details>
+  <summary>Load Balancer의 load balancing algorithm에 대해서 설명해주세요.</summary>
+  </br>
+  <p>
+  </p>
+</details>
