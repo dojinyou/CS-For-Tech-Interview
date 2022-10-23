@@ -46,3 +46,131 @@
     어노테이션은 크게 표준 어노테이션과 커스텀 어노테이션으로 나눌 수 있습니다. 표준 어노테이션에는 `@Override`와 같은 일반 목적의 어노테이션과 `@Target`과 같은 어노테이션을 위한 메타 어노테이션이 있습니다.
     </p>
 </details>
+
+<details>
+    <summary>Functional Interface에 대해서 설명해주세요</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+<details>
+    <summary>Optional에서 orElse와 orElseGet의 차이점에 대해서 설명해주세요</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+<details>
+    <summary>자바에서 동시성 해결을 위해서 어떤 것들을 할 수 있는 지 설명해주세요.</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+
+<details>
+    <summary>동시성 제어가 가능한 Collection 한가지만 설명해주세요.</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+<details>
+    <summary>HashTable의 동작방식에 대해서 설명해주세요.</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+<details>
+    <summary>제너릭에 대해서 설명해주세요</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+<details>
+    <summary>Vector를 사용하지 않는 이유는 무엇일까요</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+<details>
+    <summary>자바 8버전과 11버전에 주요 변경사항에 대해서 말씀해주세요</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+<details>
+    <summary>Parallel Stream의 동작 방식에 대해서 설명해주세요</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+
+<details>
+    <summary>GC에 대해서 설명해주고 GC 동작에 대해서 설명해주세요</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+
+<details>
+    <summary>GC Algorithm의 종류에 대해서 설명해주세요</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+
+<details>
+    <summary>Serializable interface는 어떤 역할을 할까요?</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+
+<details>
+    <summary>Thread Local은 무엇이고 언제 사용할까요?</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+
+<details>
+    <summary>멤버 변수와 지역 변수의 메모리가 언제 회수 되는 지 말씀해주세요.</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+
+<details>
+    <summary>final 키워드를 사용할 경우 어떤 장점이 있을까요?</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+
+<details>
+    <summary>String 클래스의 리터럴과 생성자의 차이는 무엇인지 설명해주세요.</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+
+<details>
+    <summary>Interpreter와 JIT Compilerer에 대해서 설명해주세요.</summary>
+    </br>
+    <p>
+    </p>
+</details>
