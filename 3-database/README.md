@@ -1,6 +1,26 @@
 # 데이터베이스
 
 <details>
+  <summary>Transaction의 특징에 대해서 설명해주세요.</summary>
+  </br>
+  <p></p>
+</details>
+
+
+<details>
+  <summary>Index를 도입할 Column을 선택하는 기준은 어떤 것이 있나요?</summary>
+  </br>
+  <p></p>
+</details>
+
+<details>
+  <summary>Full Scan / Index Full Scan / Index Range Scan 차이에 대해서 설명해주세요.</summary>
+  </br>
+  <p></p>
+</details>
+
+
+<details>
   <summary>Transaction의 Isolation Level에 대해서 설명해주세요.</summary>
   </br>
 
