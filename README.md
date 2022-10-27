@@ -3,15 +3,11 @@
 
 ## 분류 카테고리
 기술면접 대비를 위해 분류한 카테고리는 아래와 같습니다.
-- 자료구조/알고리즘(data structure/algorithm)
 - 네트워크(network)
 - 운영체제(operating system)
 - 데이터베이스(database)
-- 소프트웨어공학(software engineering)
-- 컴퓨터구조(computer architecture)
-- 디자인패턴(design pattern)
-- 테스트(test)
-- Java/JVM
+- 객체지향/디자인패턴(OOP design patthern)
+- Java/JVM 
 - Spring
 - JPA
 
