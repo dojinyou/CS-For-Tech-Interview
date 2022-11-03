@@ -21,3 +21,10 @@
   <p>
   </p>
 </details>
+
+<details>
+  <summary>팩토리 패턴의 장점과 단점에 대해서 말씀해주세요</summary>
+  </br>
+  <p>
+  </p>
+</details>
