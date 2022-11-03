@@ -174,3 +174,17 @@
     <p>
     </p>
 </details>
+
+<details>
+    <summary>더하기 연산 최적화에 대해서 알고 계시면 아는 대로 말씀해주세요.</summary>
+    </br>
+    <p>
+    </p>
+</details>
+
+<details>
+    <summary>Stream에서 map과 flatmap의 차이점에 대해서 알려주세요.</summary>
+    </br>
+    <p>
+    </p>
+</details>
