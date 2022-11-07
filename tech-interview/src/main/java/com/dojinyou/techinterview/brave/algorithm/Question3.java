@@ -35,4 +35,11 @@ public class Question3 {
     Map<Object, Object> map6 = Collections.synchronizedMap(map5);
   }
 
+  /*
+    내가 인자로 인터페이스를 받는 데 실제로 어떤 구현체를 넣어줄 지?를 아는 친구 필요해 
+   */
+  
+  // Interface <- 구현체
+  // IoC / DI 
+
 }
