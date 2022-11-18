@@ -107,3 +107,11 @@
   </br>
   <p>answer</p>
 </details>
+
+
+<details>
+  <summary>@Transactional의 전파에 대해서 설명해주세요</summary>
+  </br>
+  <p>answer</p>
+</details>
+
