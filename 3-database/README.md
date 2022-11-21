@@ -125,3 +125,23 @@
   </p>
 
 </details>
+
+<details>
+  <summary>Multi Column Index에 대해서 설명해주세요</summary>
+  </br>
+
+  <p>
+  
+  </p>
+
+</details>
+
+<details>
+  <summary>Index가 언제 동작하고 어떤 경우에 동작하지 않을 수 있는 지 설명해주세요</summary>
+  </br>
+
+  <p>
+  
+  </p>
+
+</details>
