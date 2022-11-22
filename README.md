@@ -6,7 +6,7 @@
 - 네트워크(network)
 - 운영체제(operating system)
 - 데이터베이스(database)
-- 객체지향/디자인패턴(OOP design patthern)
+- 객체지향/디자인패턴(OOP design pattern)
 - Java/JVM 
 - Spring
 - JPA
